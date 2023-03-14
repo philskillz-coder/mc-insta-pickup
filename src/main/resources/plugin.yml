@@ -1,0 +1,11 @@
+name: AutoPickup
+version: '${project.version}'
+main: dev.theskz.autopickup.Main
+api-version: 1.16
+prefix: AutoPickup
+authors: [ Philskillz ]
+description: Automatic Item Pickup
+website: https://theskz.dev
+commands:
+  autopickup:
+    description: Configure your AutoPickup
